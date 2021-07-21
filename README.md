@@ -1,2 +1,2 @@
-# mobile_hyperlocal
+# hyperlocal
 For testing hyperlocal app
